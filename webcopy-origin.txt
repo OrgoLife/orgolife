@@ -1,0 +1,2036 @@
+Uri: http://orgolife.local/
+File Name: C:\Downloaded Web Sites\orgolife.local\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/قصتنا/
+File Name: C:\Downloaded Web Sites\orgolife.local\قصتنا\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/about/
+File Name: C:\Downloaded Web Sites\orgolife.local\about\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/إتصل-بنا/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\إتصل-بنا\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/قصتنا/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\قصتنا\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/cart-2/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\cart-2\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/checkout-2/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\checkout-2\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/comments/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/ar/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/ar/landing/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\landing\index.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/landing/?add-to-cart=1314
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\landing\index-2.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/landing/?add-to-cart=1674
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\landing\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/my-account-2/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\my-account-2\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/my-account-2/lost-password/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\my-account-2\lost-password\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/product-category/زيت-زيتون/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\product-category\زيت-زيتون\index-3.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/product-category/زيت-زيتون/زيت-زيتون-بكر-ممتاز/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\product-category\زيت-زيتون\زيت-زيتون-بكر-ممتاز\index-3.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/product-category/زيت-زيتون/زيت-زيتون-بكر-ممتاز/?add-to-cart=1314
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\product-category\زيت-زيتون\زيت-زيتون-بكر-ممتاز\index-5.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/product-category/زيت-زيتون/زيت-زيتون-بكر-ممتاز/?add-to-cart=1674
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\product-category\زيت-زيتون\زيت-زيتون-بكر-ممتاز\index-4.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/product-category/زيت-زيتون/زيت-زيتون-بكر-ممتاز/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\product-category\زيت-زيتون\زيت-زيتون-بكر-ممتاز\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/ar/product-category/زيت-زيتون/?add-to-cart=1314
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\product-category\زيت-زيتون\index-5.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/product-category/زيت-زيتون/?add-to-cart=1674
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\product-category\زيت-زيتون\index-4.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/product-category/زيت-زيتون/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\product-category\زيت-زيتون\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/ar/product/coratina-extra-virgin-olive-oil/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\product\coratina-extra-virgin-olive-oil\index-2.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/product/coratina-extra-virgin-olive-oil/?add-to-cart=1314
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\product\coratina-extra-virgin-olive-oil\index-3.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/product/coratina-extra-virgin-olive-oil/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\product\coratina-extra-virgin-olive-oil\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/ar/product/picual-extra-virgin-olive-oil/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\product\picual-extra-virgin-olive-oil\index-2.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/product/picual-extra-virgin-olive-oil/?add-to-cart=1674
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\product\picual-extra-virgin-olive-oil\index-3.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/product/picual-extra-virgin-olive-oil/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\product\picual-extra-virgin-olive-oil\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/ar/returns-and-refunds-policy/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\returns-and-refunds-policy\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/shop-2/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\shop-2\index-3.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/shop-2/?add-to-cart=1314
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\shop-2\index-5.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/shop-2/?add-to-cart=1674
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\shop-2\index-4.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/ar/shop-2/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\shop-2\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/ar/wp-json/
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2F%25d8%25a5%25d8%25aa%25d8%25b5%25d9%2584-%25d8%25a8%25d9%2586%25d8%25a7%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2F%25d8%25a5%25d8%25aa%25d8%25b5%25d9%2584-%25d8%25a8%25d9%2586%25d8%25a7%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2F%25d9%2582%25d8%25b5%25d8%25aa%25d9%2586%25d8%25a7%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2F%25d9%2582%25d8%25b5%25d8%25aa%25d9%2586%25d8%25a7%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2Fcart-2%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2Fcart-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2Fcheckout-2%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2Fcheckout-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2Flanding%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2Flanding%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2Fmy-account-2%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2Fmy-account-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2Fproduct%2Fcoratina-extra-virgin-olive-oil%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2Fproduct%2Fcoratina-extra-virgin-olive-oil%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2Fproduct%2Fpicual-extra-virgin-olive-oil%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2Fproduct%2Fpicual-extra-virgin-olive-oil%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2Freturns-and-refunds-policy%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Far%2Freturns-and-refunds-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: http://orgolife.local/ar/wp-json/wp/v2/pages/1271
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\wp\v2\pages\1271-1
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/wp/v2/pages/1272
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\wp\v2\pages\1272-1
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/wp/v2/pages/1273
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\wp\v2\pages\1273-1
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/wp/v2/pages/1278
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\wp\v2\pages\1278-1
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/wp/v2/pages/1290
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\wp\v2\pages\1290-1
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/wp/v2/pages/1292
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\wp\v2\pages\1292-1
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/wp/v2/pages/1929
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\wp\v2\pages\1929-1
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/wp/v2/pages/2017
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\wp\v2\pages\2017
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/wp/v2/product_cat/76
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\wp\v2\product_cat\76-1
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/wp/v2/product_cat/81
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\wp\v2\product_cat\81-1
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/wp/v3/product/1314
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\wp\v3\product\1314-1
+Content Type: application/json
+
+Uri: http://orgolife.local/ar/wp-json/wp/v3/product/1674
+File Name: C:\Downloaded Web Sites\orgolife.local\ar\wp-json\wp\v3\product\1674-1
+Content Type: application/json
+
+Uri: http://orgolife.local/benefits-of-olive-oil/
+File Name: C:\Downloaded Web Sites\orgolife.local\benefits-of-olive-oil\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/benefits-of-olive-oil/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\benefits-of-olive-oil\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/cart/
+File Name: C:\Downloaded Web Sites\orgolife.local\cart\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/category/olive/
+File Name: C:\Downloaded Web Sites\orgolife.local\category\olive\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/category/olive/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\category\olive\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/checkout/
+File Name: C:\Downloaded Web Sites\orgolife.local\checkout\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/comments/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/contact/
+File Name: C:\Downloaded Web Sites\orgolife.local\contact\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/coratina/
+File Name: C:\Downloaded Web Sites\orgolife.local\coratina\index.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/coratina/?add-to-cart=1669
+File Name: C:\Downloaded Web Sites\orgolife.local\coratina\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/coratina/?add-to-cart=533
+File Name: C:\Downloaded Web Sites\orgolife.local\coratina\index-2.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/lab-test-result/
+File Name: C:\Downloaded Web Sites\orgolife.local\lab-test-result\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/lab-test-result/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\lab-test-result\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/landing/
+File Name: C:\Downloaded Web Sites\orgolife.local\landing\index.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/landing/?add-to-cart=1669
+File Name: C:\Downloaded Web Sites\orgolife.local\landing\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/landing/?add-to-cart=533
+File Name: C:\Downloaded Web Sites\orgolife.local\landing\index-2.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/my-account/
+File Name: C:\Downloaded Web Sites\orgolife.local\my-account\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/my-account/lost-password/
+File Name: C:\Downloaded Web Sites\orgolife.local\my-account\lost-password\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/olive/
+File Name: C:\Downloaded Web Sites\orgolife.local\olive\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/olive/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\olive\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/picual/
+File Name: C:\Downloaded Web Sites\orgolife.local\picual\index.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/picual/?add-to-cart=1669
+File Name: C:\Downloaded Web Sites\orgolife.local\picual\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/picual/?add-to-cart=533
+File Name: C:\Downloaded Web Sites\orgolife.local\picual\index-2.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/product-category/olive-oil/
+File Name: C:\Downloaded Web Sites\orgolife.local\product-category\olive-oil\index-3.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/product-category/olive-oil/?add-to-cart=1669
+File Name: C:\Downloaded Web Sites\orgolife.local\product-category\olive-oil\index-4.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/product-category/olive-oil/?add-to-cart=533
+File Name: C:\Downloaded Web Sites\orgolife.local\product-category\olive-oil\index-5.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/product-category/olive-oil/extra-virgin-olive-oil/
+File Name: C:\Downloaded Web Sites\orgolife.local\product-category\olive-oil\extra-virgin-olive-oil\index-3.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/product-category/olive-oil/extra-virgin-olive-oil/?add-to-cart=1669
+File Name: C:\Downloaded Web Sites\orgolife.local\product-category\olive-oil\extra-virgin-olive-oil\index-4.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/product-category/olive-oil/extra-virgin-olive-oil/?add-to-cart=533
+File Name: C:\Downloaded Web Sites\orgolife.local\product-category\olive-oil\extra-virgin-olive-oil\index-5.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/product-category/olive-oil/extra-virgin-olive-oil/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\product-category\olive-oil\extra-virgin-olive-oil\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/product-category/olive-oil/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\product-category\olive-oil\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/product/coratina-extra-virgin-olive-oil/
+File Name: C:\Downloaded Web Sites\orgolife.local\product\coratina-extra-virgin-olive-oil\index-2.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/product/coratina-extra-virgin-olive-oil/?add-to-cart=533
+File Name: C:\Downloaded Web Sites\orgolife.local\product\coratina-extra-virgin-olive-oil\index-3.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/product/coratina-extra-virgin-olive-oil/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\product\coratina-extra-virgin-olive-oil\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/product/picual-extra-virgin-olive-oil/
+File Name: C:\Downloaded Web Sites\orgolife.local\product\picual-extra-virgin-olive-oil\index-2.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/product/picual-extra-virgin-olive-oil/?add-to-cart=1669
+File Name: C:\Downloaded Web Sites\orgolife.local\product\picual-extra-virgin-olive-oil\index-3.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/product/picual-extra-virgin-olive-oil/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\product\picual-extra-virgin-olive-oil\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/returns-and-refunds-policy/
+File Name: C:\Downloaded Web Sites\orgolife.local\returns-and-refunds-policy\index-1.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/shop/
+File Name: C:\Downloaded Web Sites\orgolife.local\shop\index-3.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/shop/?add-to-cart=1669
+File Name: C:\Downloaded Web Sites\orgolife.local\shop\index-4.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/shop/?add-to-cart=533
+File Name: C:\Downloaded Web Sites\orgolife.local\shop\index-5.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/shop/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\shop\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/store/
+File Name: C:\Downloaded Web Sites\orgolife.local\store\index-3.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/store/?add-to-cart=1669
+File Name: C:\Downloaded Web Sites\orgolife.local\store\index-4.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/store/?add-to-cart=533
+File Name: C:\Downloaded Web Sites\orgolife.local\store\index-5.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/useful-links/
+File Name: C:\Downloaded Web Sites\orgolife.local\useful-links\index.htm
+Content Type: text/html
+
+Uri: http://orgolife.local/useful-links/feed/
+File Name: C:\Downloaded Web Sites\orgolife.local\useful-links\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://orgolife.local/wp-admin/js/password-strength-meter.min.js?ver=6.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-admin\js\password-strength-meter.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/css/frontend-lite-rtl.min.css?ver=3.12.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\css\frontend-lite-rtl.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.12.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\css\widget-call-to-action.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/css/widget-flip-box.min.css
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\css\widget-flip-box.min.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/css/widget-loop-builder.min.css
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\css\widget-loop-builder.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\css\widget-posts.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/css/widget-share-buttons.min.css
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\css\widget-share-buttons.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\css\widget-theme-elements.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/css/widget-woocommerce.min.css
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\css\widget-woocommerce.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.12.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.12.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\js\frontend.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.12.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\lib\lottie\lottie.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.12.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/css/frontend-lite-rtl.min.css?ver=3.12.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\css\frontend-lite-rtl.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.12.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\css\frontend-lite.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\css\widget-icon-list.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.12.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\js\frontend-modules.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.12.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\js\frontend.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.12.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\js\webpack.runtime.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.12.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\animations\animations.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.18.0
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.18.0
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.18.0
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.18.0
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.ttf
+Content Type: application/font-sfnt
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.18.0
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff2
+Content Type: application/font-woff2
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.18.0
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff
+Content Type: application/font-woff
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.ttf
+Content Type: application/font-sfnt
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.woff
+Content Type: application/font-woff
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.woff2
+Content Type: application/font-woff2
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.ttf
+Content Type: application/font-sfnt
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.woff
+Content Type: application/font-woff
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.woff2
+Content Type: application/font-woff2
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\swiper\css\swiper.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.7.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.7.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\general.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.14.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\google-analytics-for-wordpress\assets\js\frontend-gtag.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/google-listings-and-ads/js/build/gtag-events.js?ver=d5b77d1e18767c9acbb6
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\google-listings-and-ads\js\build\gtag-events-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/Kashier-WooCommerce-Plugin-master/assets/css/kashier-styles.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\Kashier-WooCommerce-Plugin-master\assets\css\kashier-styles-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/Kashier-WooCommerce-Plugin-master/assets/images/credit-card.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\Kashier-WooCommerce-Plugin-master\assets\images\credit-card-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/Kashier-WooCommerce-Plugin-master/assets/images/mastercard.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\Kashier-WooCommerce-Plugin-master\assets\images\mastercard-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/Kashier-WooCommerce-Plugin-master/assets/images/meeza.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\Kashier-WooCommerce-Plugin-master\assets\images\meeza-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/Kashier-WooCommerce-Plugin-master/assets/images/secured-by-kashier.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\Kashier-WooCommerce-Plugin-master\assets\images\secured-by-kashier-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/plugins/Kashier-WooCommerce-Plugin-master/assets/images/visa.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\Kashier-WooCommerce-Plugin-master\assets\images\visa-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/Kashier-WooCommerce-Plugin-master/assets/js/kashier-iframe.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\Kashier-WooCommerce-Plugin-master\assets\js\kashier-iframe-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\sitepress-multilingual-cms\res\flags\en-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=4.5.14
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\sitepress-multilingual-cms\res\js\cookies\language-cookie-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\sitepress-multilingual-cms\templates\language-switchers\legacy-list-horizontal\style.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/woo-accept/assets/img/Wallets.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woo-accept\assets\img\Wallets-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/plugins/woo-checkout-field-editor-pro/public/assets/css/thwcfd-public.min.css?ver=6.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woo-checkout-field-editor-pro\public\assets\css\thwcfd-public.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/woo-checkout-field-editor-pro/public/assets/js/thwcfd-public.min.js?ver=1.8.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woo-checkout-field-editor-pro\public\assets\js\thwcfd-public.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce-multilingual/res/js/cart_widget.min.js?ver=5.1.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce-multilingual\res\js\cart_widget.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce-multilingual/res/js/front-scripts.min.js?ver=5.1.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce-multilingual\res\js\front-scripts.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader-1.gif
+Content Type: image/gif
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\css\select2-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/fonts/star.eot
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\fonts\star-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/fonts/star.eot?
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\fonts\star-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\fonts\star-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\fonts\star-1.ttf
+Content Type: application/font-sfnt
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\fonts\star-1.woff
+Content Type: application/font-woff
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-1.ttf
+Content Type: application/font-sfnt
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-1.woff
+Content Type: application/font-woff
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\images\icons\loader-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\flexslider\jquery.flexslider.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\frontend\cart.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/frontend/checkout.min.js?ver=7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\frontend\checkout.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/jquery-payment/jquery.payment.min.js?ver=3.0.0-wc.7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\jquery-payment\jquery.payment.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.7.6.1
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\assets\js\zoom\jquery.zoom.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style-rtl.css?ver=9.8.5
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style-rtl-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=9.8.5
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=9.8.5
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min-rtl.css?ver=4.1.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-grid.min-rtl-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css?ver=4.1.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-grid.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-layout-grid.min-rtl.css?ver=4.1.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-layout-grid.min-rtl-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-layout-grid.min.css?ver=4.1.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-layout-grid.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-smallscreen-grid.min-rtl.css?ver=4.1.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-smallscreen-grid.min-rtl-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-smallscreen-grid.min.css?ver=4.1.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\themes\astra\assets\css\minified\compatibility\woocommerce\woocommerce-smallscreen-grid.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/themes/astra/assets/css/minified/main.min-rtl.css?ver=4.1.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\themes\astra\assets\css\minified\main.min-rtl-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.1.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\themes\astra\assets\css\minified\main.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.1.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\themes\astra\assets\js\minified\frontend.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/2-bottles-EV-and-V-3.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\2-bottles-EV-and-V-3-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/2-trees.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\2-trees-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/80fe0455ca67c2e398d5ee0ef3c0ac37.jpg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\80fe0455ca67c2e398d5ee0ef3c0ac37-1.jpg
+Content Type: image/jpeg
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Ar-Orgolife-H-Transparent-300x108.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Ar-Orgolife-H-Transparent-300x108-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Ar-Orgolife-H-Transparent.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Ar-Orgolife-H-Transparent-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/blog-header-2-1.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\blog-header-2-1-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Coratina-English-Promo-100x100.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Coratina-English-Promo-100x100-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Coratina-English-Promo-1024x1024.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Coratina-English-Promo-1024x1024-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Coratina-English-Promo-150x150.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Coratina-English-Promo-150x150-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Coratina-English-Promo-1536x1536.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Coratina-English-Promo-1536x1536-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Coratina-English-Promo-300x300.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Coratina-English-Promo-300x300-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Coratina-English-Promo-600x600.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Coratina-English-Promo-600x600-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Coratina-English-Promo-768x768.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Coratina-English-Promo-768x768-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Coratina-English-Promo.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Coratina-English-Promo-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/cropped-favicon-180x180.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\cropped-favicon-180x180-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/cropped-favicon-192x192.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\cropped-favicon-192x192-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/cropped-favicon-32x32.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\cropped-favicon-32x32-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/IMG_20220421_105852-01.jpeg-scaled-e1667109807870.jpeg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\IMG_20220421_105852-01.jpeg-scaled-e1667109807870-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/OrgoLife-Logo.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\OrgoLife-Logo-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/our-black-olive.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\our-black-olive-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/pexels-anna-khomutova-5781229-single-olive-in-focus-1024x683.jpg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\pexels-anna-khomutova-5781229-single-olive-in-focus-1024x683-1.jpg
+Content Type: image/jpeg
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/pexels-anna-khomutova-5781229-single-olive-in-focus.jpg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\pexels-anna-khomutova-5781229-single-olive-in-focus-1.jpg
+Content Type: image/jpeg
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/picual-1-liter-front-woo-1-100x100.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\picual-1-liter-front-woo-1-100x100-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/picual-1-liter-front-woo-1-1024x1024.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\picual-1-liter-front-woo-1-1024x1024-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/picual-1-liter-front-woo-1-150x150.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\picual-1-liter-front-woo-1-150x150-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/picual-1-liter-front-woo-1-300x300.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\picual-1-liter-front-woo-1-300x300-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/picual-1-liter-front-woo-1-600x600.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\picual-1-liter-front-woo-1-600x600-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/picual-1-liter-front-woo-1-768x768.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\picual-1-liter-front-woo-1-768x768-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/picual-1-liter-front-woo-1.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\picual-1-liter-front-woo-1-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-1L-Price-Desc-100x100.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-1L-Price-Desc-100x100-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-1L-Price-Desc-1024x1024.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-1L-Price-Desc-1024x1024-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-1L-Price-Desc-150x150.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-1L-Price-Desc-150x150-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-1L-Price-Desc-1536x1536.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-1L-Price-Desc-1536x1536-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-1L-Price-Desc-300x300.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-1L-Price-Desc-300x300-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-1L-Price-Desc-600x600.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-1L-Price-Desc-600x600-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-1L-Price-Desc-768x768.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-1L-Price-Desc-768x768-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-1L-Price-Desc.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-1L-Price-Desc-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-English-Promo-100x100.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-English-Promo-100x100-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-English-Promo-1024x1024.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-English-Promo-1024x1024-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-English-Promo-150x150.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-English-Promo-150x150-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-English-Promo-1536x1536.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-English-Promo-1536x1536-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-English-Promo-300x300.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-English-Promo-300x300-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-English-Promo-600x600.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-English-Promo-600x600-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-English-Promo-768x768.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-English-Promo-768x768-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/Picual-English-Promo.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\Picual-English-Promo-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/rowan-freeman-clYlmCaQbzY-unsplash-scaled.jpg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\rowan-freeman-clYlmCaQbzY-unsplash-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: http://orgolife.local/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-21-at-10.17.33-AM-e1667109874644.jpeg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\10\WhatsApp-Image-2022-10-21-at-10.17.33-AM-e1667109874644-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://orgolife.local/wp-content/uploads/2022/11/blog-header-1024x461.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\11\blog-header-1024x461-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/11/blog-header-1536x691.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\11\blog-header-1536x691-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/11/blog-header-300x135.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\11\blog-header-300x135-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/11/blog-header-600x270.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\11\blog-header-600x270-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/11/blog-header-768x346.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\11\blog-header-768x346-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/11/blog-header.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\11\blog-header-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2022/12/1L-Glass-with-logo-small-1024x1024.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\12\1L-Glass-with-logo-small-1024x1024-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2022/12/1L-plastic-with-logo-small-1024x1024.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\12\1L-plastic-with-logo-small-1024x1024-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2022/12/coratina-1-liter-plastic-woo-100x100.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\12\coratina-1-liter-plastic-woo-100x100-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2022/12/coratina-1-liter-plastic-woo-1024x1024.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\12\coratina-1-liter-plastic-woo-1024x1024-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2022/12/coratina-1-liter-plastic-woo-150x150.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\12\coratina-1-liter-plastic-woo-150x150-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2022/12/coratina-1-liter-plastic-woo-300x300.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\12\coratina-1-liter-plastic-woo-300x300-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2022/12/coratina-1-liter-plastic-woo-600x600.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\12\coratina-1-liter-plastic-woo-600x600-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2022/12/coratina-1-liter-plastic-woo-768x768.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\12\coratina-1-liter-plastic-woo-768x768-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2022/12/coratina-1-liter-plastic-woo.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\12\coratina-1-liter-plastic-woo-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2022/12/olive-oil-with-vegetables-cropped2-scaled.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\12\olive-oil-with-vegetables-cropped2-scaled-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2022/12/sinai-olives-all-containers-small.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2022\12\sinai-olives-all-containers-small-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/5.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\5.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/7.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\7.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/8.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\8.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/9.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\9.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/Coratina-English-Promo.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\Coratina-English-Promo.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/healthy-herbal-drinks-chamomile-blossoms-natural-healer-concept_210733-2159-1-1024x683.jpg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\healthy-herbal-drinks-chamomile-blossoms-natural-healer-concept_210733-2159-1-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/healthy-herbal-drinks-chamomile-blossoms-natural-healer-concept_210733-2159-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\healthy-herbal-drinks-chamomile-blossoms-natural-healer-concept_210733-2159-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/healthy-herbal-drinks-chamomile-blossoms-natural-healer-concept_210733-2159-1-600x400.jpg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\healthy-herbal-drinks-chamomile-blossoms-natural-healer-concept_210733-2159-1-600x400.jpg
+Content Type: image/jpeg
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/healthy-herbal-drinks-chamomile-blossoms-natural-healer-concept_210733-2159-1-768x512.jpg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\healthy-herbal-drinks-chamomile-blossoms-natural-healer-concept_210733-2159-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/healthy-herbal-drinks-chamomile-blossoms-natural-healer-concept_210733-2159-1.jpg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\healthy-herbal-drinks-chamomile-blossoms-natural-healer-concept_210733-2159-1.jpg
+Content Type: image/jpeg
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/IMG_20221229_134736-225x300.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\IMG_20221229_134736-225x300.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/IMG_20221229_134736-600x800.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\IMG_20221229_134736-600x800.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/IMG_20221229_134736-768x1024.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\IMG_20221229_134736-768x1024.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/IMG_20221229_134736.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\IMG_20221229_134736.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/IMG_20221229_134940.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\IMG_20221229_134940.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/01/Picual-English-Promo.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\01\Picual-English-Promo.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/cropped-orgolife-H-Transparent-300x100.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\cropped-orgolife-H-Transparent-300x100-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/cropped-orgolife-H-Transparent.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\cropped-orgolife-H-Transparent-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/IMG_20221027_100651.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\IMG_20221027_100651-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/IMG_20230204_163945-1532x2048-2-1149x1536.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\IMG_20230204_163945-1532x2048-2-1149x1536-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/IMG_20230204_163945-1532x2048-2-224x300.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\IMG_20230204_163945-1532x2048-2-224x300-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/IMG_20230204_163945-1532x2048-2-600x802.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\IMG_20230204_163945-1532x2048-2-600x802-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/IMG_20230204_163945-1532x2048-2-766x1024.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\IMG_20230204_163945-1532x2048-2-766x1024-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/IMG_20230204_163945-1532x2048-2-768x1027.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\IMG_20230204_163945-1532x2048-2-768x1027-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/IMG_20230204_163945-1532x2048-2.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\IMG_20230204_163945-1532x2048-2-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/OrgoLife-2-glass-bottles-225x300.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\OrgoLife-2-glass-bottles-225x300.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/OrgoLife-2-glass-bottles-600x800.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\OrgoLife-2-glass-bottles-600x800.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/OrgoLife-2-glass-bottles-768x1024.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\OrgoLife-2-glass-bottles-768x1024.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/OrgoLife-2-glass-bottles.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\OrgoLife-2-glass-bottles.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/OrgoLife-QRCode-100x100.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\OrgoLife-QRCode-100x100-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/OrgoLife-QRCode-150x150.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\OrgoLife-QRCode-150x150-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/OrgoLife-QRCode-300x300.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\OrgoLife-QRCode-300x300-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/OrgoLife-QRCode.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\OrgoLife-QRCode-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2023/02/pro-to-picual-plastic-bottle.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\02\pro-to-picual-plastic-bottle.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/03/coratina-1-liter-plastic-transparent-bg-1.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\03\coratina-1-liter-plastic-transparent-bg-1-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/03/picual-1-liter-front-transparent-bg-1024x1024.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\03\picual-1-liter-front-transparent-bg-1024x1024-1.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/03/picual-1-liter-front-transparent-bg.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\03\picual-1-liter-front-transparent-bg.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/2023/04/links-backlinks-hyperlink-linkage-internet-online-concept-1024x664.jpg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\04\links-backlinks-hyperlink-linkage-internet-online-concept-1024x664.jpg
+Content Type: image/jpeg
+
+Uri: http://orgolife.local/wp-content/uploads/2023/04/links-backlinks-hyperlink-linkage-internet-online-concept-scaled.jpg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\04\links-backlinks-hyperlink-linkage-internet-online-concept-scaled.jpg
+Content Type: image/jpeg
+
+Uri: http://orgolife.local/wp-content/uploads/2023/04/Orgolive-olive-oil-promotion-square.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\04\Orgolive-olive-oil-promotion-square.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2023/04/Orgolive-olive-oil-promotion-square2.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\04\Orgolive-olive-oil-promotion-square2.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/2023/04/Virgin-1-liter-plastic.webp
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\2023\04\Virgin-1-liter-plastic.webp
+Content Type: image/webp
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/global.css?ver=1682442252
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\global-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-1078.css?ver=1682803939
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-1078-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-122.css?ver=1682870396
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-122.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-1272.css?ver=1682804987
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-1272-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-1278.css?ver=1682803985
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-1278-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-1290.css?ver=1682804209
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-1290-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-1292.css?ver=1682870450
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-1292.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-1294.css?ver=1682870106
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-1294.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-1305.css?ver=1682870166
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-1305.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-1331.css?ver=1682804104
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-1331-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-1342.css?ver=1682803979
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-1342-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-1351.css?ver=1682803985
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-1351-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-148.css?ver=1682803938
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-148-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-17.css?ver=1682442253
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-17-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-1844.css?ver=1682803902
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-1844.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-1923.css?ver=1682803942
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-1923-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-1929.css?ver=1682804240
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-1929-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-2017.css?ver=1682803977
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-2017.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-2337.css?ver=1682803857
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-2337.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-2372.css?ver=1682803910
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-2372.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-246.css?ver=1682442248
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-246-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-255.css?ver=1682807827
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-255-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-259.css?ver=1682807942
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-259-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-271.css?ver=1682870191
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-271.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-275.css?ver=1682869824
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-275.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-30.css?ver=1682442254
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-30-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-379.css?ver=1682696572
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-379-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-530.css?ver=1682804892
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-530-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-543.css?ver=1682803932
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-543-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-597.css?ver=1682803933
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-597-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/css/post-988.css?ver=1682804849
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\css\post-988-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/thumbs/certificate-q2i60gllyosravaui1xks75em4x2doffijar1yyqus.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\thumbs\certificate-q2i60gllyosravaui1xks75em4x2doffijar1yyqus.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/thumbs/domain-registration-q2i60gllyosravaui1xks75em4x2doffijar1yyqus.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\thumbs\domain-registration-q2i60gllyosravaui1xks75em4x2doffijar1yyqus.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/thumbs/startup-q2i60hjg5iu1mh9hckc7cowv7isfldj5uny8j8xcok.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\thumbs\startup-q2i60hjg5iu1mh9hckc7cowv7isfldj5uny8j8xcok.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/elementor/thumbs/viral-marketing-q2i60gllyosravaui1xks75em4x2doffijar1yyqus.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\elementor\thumbs\viral-marketing-q2i60gllyosravaui1xks75em4x2doffijar1yyqus.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-content/uploads/flags/egypt flag.png
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-content\uploads\flags\egypt flag-1.png
+Content Type: image/png
+
+Uri: http://orgolife.local/wp-includes/css/dist/block-library/style-rtl.min.css?ver=6.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\css\dist\block-library\style-rtl.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-includes/css/dist/block-library/style.min.css?ver=6.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-includes/js/comment-reply.min.js?ver=6.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\comment-reply.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\dist\hooks.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\dist\i18n.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\dist\vendor\regenerator-runtime.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\dist\vendor\wp-polyfill-inert.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\dist\vendor\wp-polyfill.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\imagesloaded.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-includes/js/jquery/jquery.min.js?ver=3.6.3
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\jquery\ui\core.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\mediaelement\mediaelementplayer-legacy.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\mediaelement\mejs-controls-1.svg
+Content Type: image/svg+xml
+
+Uri: http://orgolife.local/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\mediaelement\wp-mediaelement.min-1.css
+Content Type: text/css
+
+Uri: http://orgolife.local/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\underscore.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-includes/js/wp-util.min.js?ver=6.2
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\wp-util.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\js\zxcvbn-async.min-1.js
+Content Type: application/x-javascript
+
+Uri: http://orgolife.local/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-includes\wlwmanifest-1.xml
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2F%25d9%2582%25d8%25b5%25d8%25aa%25d9%2586%25d8%25a7%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2F%25d9%2582%25d8%25b5%25d8%25aa%25d9%2586%25d8%25a7%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fabout%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fabout%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fbenefits-of-olive-oil%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fbenefits-of-olive-oil%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fcart%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fcart%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fcheckout%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fcheckout%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fcoratina%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fcoratina%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Flab-test-result%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Flab-test-result%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Flanding%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Flanding%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fmy-account%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fmy-account%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Folive%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Folive%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fpicual%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fpicual%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fproduct%2Fcoratina-extra-virgin-olive-oil%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fproduct%2Fcoratina-extra-virgin-olive-oil%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fproduct%2Fpicual-extra-virgin-olive-oil%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fproduct%2Fpicual-extra-virgin-olive-oil%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Freturns-and-refunds-policy%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Freturns-and-refunds-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fstore%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fstore%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fuseful-links%2F
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/oembed/1.0/embed?url=http:%2F%2Forgolife.local%2Fuseful-links%2F&format=xml
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: http://orgolife.local/wp-json/wp/v2/categories/56
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\categories\56-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/pages/1078
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\pages\1078-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/pages/122
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\pages\122-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/pages/148
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\pages\148-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/pages/1844
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\pages\1844
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/pages/1923
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\pages\1923-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/pages/2337
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\pages\2337
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/pages/2372
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\pages\2372
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/pages/379
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\pages\379-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/pages/529
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\pages\529-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/pages/530
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\pages\530-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/pages/531
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\pages\531-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/pages/988
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\pages\988-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/posts/2294
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\posts\2294-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/posts/2685
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\posts\2685
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/posts/923
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\posts\923-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/posts/941
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\posts\941-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/product_cat/36
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\product_cat\36-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v2/product_cat/64
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v2\product_cat\64-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v3/product/1669
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v3\product\1669-1
+Content Type: application/json
+
+Uri: http://orgolife.local/wp-json/wp/v3/product/533
+File Name: C:\Downloaded Web Sites\orgolife.local\wp-json\wp\v3\product\533-1
+Content Type: application/json
+
+Uri: http://orgolife.local/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\orgolife.local\xmlrpc-1.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Questrial:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lato:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Josefin+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Prata:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.2
+File Name: C:\Downloaded Web Sites\orgolife.local\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Questrial:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lato:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Vidaloka:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Prata:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.2
+File Name: C:\Downloaded Web Sites\orgolife.local\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Questrial:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lato:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.2
+File Name: C:\Downloaded Web Sites\orgolife.local\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCT6oJRLSzt.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\josefinsans\v25\Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCT6oJRLSzt-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTaoVRLSzt.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\josefinsans\v25\Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTaoVRLSzt-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCThoJRLSzt.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\josefinsans\v25\Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCThoJRLSzt-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTNIJRLSzt.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\josefinsans\v25\Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTNIJRLSzt-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtIJRLSzt.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\josefinsans\v25\Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtIJRLSzt-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtINRLSzt.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\josefinsans\v25\Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTtINRLSzt-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTU4VRLSzt.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\josefinsans\v25\Qw3JZQNVED7rKGKxtqIqX5EUCGZ2dIn0FyA96fCTU4VRLSzt-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ArQbMZhKg.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\josefinsans\v25\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ArQbMZhKg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKg.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\josefinsans\v25\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjRbMZhKg.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\josefinsans\v25\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjRbMZhKg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_GbQbMZhKg.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\josefinsans\v25\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_GbQbMZhKg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_LjQbMZhKg.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\josefinsans\v25\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_LjQbMZhKg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhKg.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\josefinsans\v25\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_N_XbMZhKg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ObXbMZhKg.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\josefinsans\v25\Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_ObXbMZhKg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\lato\v23\S6u-w4BMUTPHjxsIPx-oPCc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\lato\v23\S6u8w4BMUTPHh30AXC-v-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\lato\v23\S6u8w4BMUTPHjxsAXC-v-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\lato\v23\S6u9w4BMUTPHh50XSwiPHA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\lato\v23\S6u9w4BMUTPHh6UVSwiPHA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\lato\v23\S6u9w4BMUTPHh7USSwiPHA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\lato\v23\S6uyw4BMUTPHjx4wWw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\lato\v23\S6u_w4BMUTPHjxsI3wi_Gwfo-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\lato\v23\S6u_w4BMUTPHjxsI5wq_Gwfo-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\lato\v23\S6u_w4BMUTPHjxsI9w2_Gwfo-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prata/v18/6xKhdSpbNNCT-sWPCms.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\prata\v18\6xKhdSpbNNCT-sWPCms-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/questrial/v18/QdVUSTchPBm7nuUeVf70viFg.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\questrial\v18\QdVUSTchPBm7nuUeVf70viFg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/vidaloka/v18/7cHrv4c3ipenMKlEavs7wHo.ttf
+File Name: C:\Downloaded Web Sites\orgolife.local\s\vidaloka\v18\7cHrv4c3ipenMKlEavs7wHo.ttf
+Content Type: font/ttf
+
+Uri: https://stats.wp.com/e-202317.js
+File Name: C:\Downloaded Web Sites\orgolife.local\e-202317-1.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-11066399910
+File Name: C:\Downloaded Web Sites\orgolife.local\gtag\js-3
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-H3KRLJB3DN
+File Name: C:\Downloaded Web Sites\orgolife.local\gtag\js-2
+Content Type: application/javascript
+
