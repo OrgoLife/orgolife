@@ -1,0 +1,84 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 04 May 2023 08:07:10 at orgolife2.local/picual +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0c8H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" orgolife2.local/picual -O1 "C:\My Web Sites\picual" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:09:49	Warning: 	Moved Permanently for orgolife2.local/?p=2337
+08:09:49	Warning: 	File has moved from orgolife2.local/?p=2337 to http://orgolife2.local/picual/
+08:10:45	Error: 	"Not Found" (404) at link orgolife2.local/?post_type=product&p=733 (from orgolife2.local/picual/)
+08:11:48	Warning: 	Retry after error -4 (Incorrect length (1113038 Bytes, 1203628 expected)) at link orgolife2.local/wp-content/uploads/2023/01/Coratina-English-Promo.png (from orgolife2.local/wp-content/uploads/elementor/css/post-2337.css?ver=1683088174)
+08:12:15	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css (from orgolife2.local/)
+08:14:11	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/?p=1669 (from orgolife2.local/product/coratina-extra-virgin-olive-oil/)
+08:14:31	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/wp-content/uploads/2022/10/Picual-English-Promo.png (from orgolife2.local/product/picual-extra-virgin-olive-oil/)
+08:14:31	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/wp-json/wp/v3/product/533 (from orgolife2.local/product/picual-extra-virgin-olive-oil/)
+08:14:31	Warning: 	Moved Permanently for orgolife2.local/?p=533
+08:14:31	Warning: 	File has moved from orgolife2.local/?p=533 to http://orgolife2.local/product/picual-extra-virgin-olive-oil/
+08:14:35	Error: 	Exit requested by shell or user
+08:14:37	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-json/wp/v2/pages/529
+08:14:37	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Forgolife2.local%2Fcart%2F
+08:14:37	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Forgolife2.local%2Fcart%2F&format=xml
+08:14:37	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=7.6.1
+08:14:37	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=7.6.1
+08:14:37	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=7.6.1
+08:14:37	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.6.1
+08:14:37	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/wp-content/uploads/2022/10/picual-1-liter-front-woo-1.png (from orgolife2.local/product/picual-extra-virgin-olive-oil/)
+08:14:37	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/wp-content/uploads/2022/10/Picual-English-Promo-600x600.png (from orgolife2.local/product/picual-extra-virgin-olive-oil/)
+08:14:38	Error: 	"Error when decompressing" (-1) at link orgolife2.local/ar/قصتنا/ (from orgolife2.local/about/)
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-content/uploads/2022/10/pexels-anna-khomutova-5781229-single-olive-in-focus.jpg
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-content/uploads/2022/10/IMG_20220421_105852-01.jpeg-scaled-e1667109807870.jpeg
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-21-at-10.17.33-AM-e1667109874644.jpeg
+08:14:38	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/wp-json/wp/v2/pages/148 (from orgolife2.local/about/)
+08:14:38	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/?p=148 (from orgolife2.local/about/)
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-content/uploads/2022/10/80fe0455ca67c2e398d5ee0ef3c0ac37.jpg
+08:14:38	Warning: 	Moved Permanently for orgolife2.local/?p=1078
+08:14:38	Warning: 	File has moved from orgolife2.local/?p=1078 to http://orgolife2.local/store/
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-content/uploads/2022/10/blog-header-2-1.png
+08:14:38	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css (from orgolife2.local/category/olive/)
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-content/uploads/elementor/css/post-259.css?ver=1682961934
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-json/wp/v2/posts/923
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Forgolife2.local%2Folive%2F
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Forgolife2.local%2Folive%2F&format=xml
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/xmlrpc.php
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css
+08:14:38	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/wp-content/uploads/2022/10/pexels-anna-khomutova-5781229-single-olive-in-focus-1024x683.jpg (from orgolife2.local/category/olive/)
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-content/uploads/2022/11/blog-header.png
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-json/wp/v2/posts/941
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Forgolife2.local%2Fbenefits-of-olive-oil%2F
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Forgolife2.local%2Fbenefits-of-olive-oil%2F&format=xml
+08:14:38	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/lab-test-result/ (from orgolife2.local/category/olive/)
+08:14:38	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/ar/إتصل-بنا/ (from orgolife2.local/contact/)
+08:14:38	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/wp-content/uploads/elementor/css/post-122.css?ver=1682961694 (from orgolife2.local/contact/)
+08:14:38	Warning: 	Moved Permanently for orgolife2.local/?p=122
+08:14:38	Warning: 	File has moved from orgolife2.local/?p=122 to http://orgolife2.local/contact/
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-content/uploads/elementor/css/post-1929.css?ver=1682961726
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/ar/wp-json/wp/v2/pages/1929
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Forgolife2.local%2Far%2Freturns-and-refunds-policy%2F
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Forgolife2.local%2Far%2Freturns-and-refunds-policy%2F&format=xml
+08:14:38	Warning: 	Moved Permanently for orgolife2.local/?p=1923
+08:14:38	Warning: 	File has moved from orgolife2.local/?p=1923 to http://orgolife2.local/returns-and-refunds-policy/
+08:14:38	Warning: 	File not added due to mirror cancel: orgolife2.local/wp-content/uploads/elementor/css/post-1331.css?ver=1682961719
+08:14:38	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/wp-content/uploads/elementor/css/post-543.css?ver=1682961684 (from orgolife2.local/shop/)
+08:14:38	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg (from orgolife2.local/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.6.1)
+08:14:38	Error: 	"Not Found" (404) at link orgolife2.local/picual/giItT1WQy@!-/ (from orgolife2.local/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6)
+08:14:38	Error: 	"Not Found" (404) at link orgolife2.local/picual/images/ (from orgolife2.local/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6)
+08:14:39	Error: 	"Not Found" (404) at link orgolife2.local/picual/GET (from orgolife2.local/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6)
+08:14:39	Error: 	"Not Found" (404) at link orgolife2.local/picual/-negative.svg (from orgolife2.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.12.2)
+08:14:39	Error: 	"Not Found" (404) at link orgolife2.local/picual/OPR/ (from orgolife2.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.12.2)
+08:14:39	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/wp-content/uploads/2023/01/Coratina-English-Promo.png (from orgolife2.local/wp-content/uploads/elementor/css/post-2337.css?ver=1683088174)
+08:14:39	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/wp-content/uploads/2022/10/Home.jpg (from orgolife2.local/ar/)
+08:14:39	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Forgolife2.local%2Far%2F (from orgolife2.local/ar/)
+08:14:39	Warning: 	Retry after error -4 (No data (connection closed)) at link orgolife2.local/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Forgolife2.local%2Far%2F&format=xml (from orgolife2.local/ar/)
+08:14:39	Error: 	"Not Found" (404) at link orgolife2.local/ar/?post_type=product&p=1319 (from orgolife2.local/ar/)
+08:14:39	Error: 	Exit requested by shell or user
+08:14:39	Error: 	"" (-1) at link orgolife2.local/قصتنا/ (from orgolife2.local/ar/)
+08:14:39	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 29 seconds : 354 links scanned, 252 files written (27609873 bytes overall), 133 files updated [12830291 bytes received at 28575 bytes/sec], 10199874 bytes transferred using HTTP compression in 98 files, ratio 15%, 2.6 requests per connection
+(12 errors, 57 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+orgolife2.local	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+orgolife2.local	TRUE	/	FALSE	1999999999	wp_woocommerce_session_d270f5b489e8334fce424adb1093ebc4	t_5969c555eb8fe5aed323e6d78d640a%7C%7C1683349300%7C%7C1683345700%7C%7C2caf6cca9cc1041d1d1a92b24ce01882
+orgolife2.local	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	ad46c6ca0749b5b45e6bca8f31ef21f6
+
